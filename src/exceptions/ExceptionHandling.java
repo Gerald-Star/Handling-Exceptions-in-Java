@@ -1,6 +1,6 @@
-package exceptionHandling;
+package exceptions;
 
-public class Exceptions {
+public class ExceptionHandling {
     public static void main(String[] args) {
         try {
             int[] myNumbers = {1, 2, 3};

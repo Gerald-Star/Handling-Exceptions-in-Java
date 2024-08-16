@@ -1,4 +1,4 @@
-package exceptionHandling;
+package exceptions;
 
 // ? Exception handling is a way to handle runtime errors. 
 import java.io.File;
